@@ -1,5 +1,7 @@
 # Machine-Learning--AI
 
 Computer Vision
-Speech Recogni
+
+Speech Recognition
+
 cat and Dog model

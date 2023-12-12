@@ -4,4 +4,4 @@ Computer Vision
 
 Speech Recognition
 
-cat and Dog model
+cat and Dog model creation and classification
